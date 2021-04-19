@@ -18,8 +18,5 @@ app.get('/posts', (req,res) => {
 })
 
 
-//Connect to db
-//mongoose.connect();
-
 //How do we start listening to the server
 app.listen(3000);
